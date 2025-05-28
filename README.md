@@ -40,15 +40,6 @@ I enjoy creating solutions that make life easier and am always looking to learn 
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f6pOe5eSyaEYY/giphy.gif" width="200" />
-</p>
-
----
-
-<p align="center">
-  <em>Made with ☕ and a pinch of humor! 🚀</em>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pm-ramos&style=flat-square&color=blue" alt="Profile Views" />
